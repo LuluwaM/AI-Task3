@@ -1,5 +1,5 @@
 # AI-Task3
-Task 3: Using object recognition technology by Teachable Machines to identify objects the robot can meet.
+Task 3: Using object recognition technology by Teachable Machines to identify objects the robot can meet. We have two classes that are trained and tested.
 
 -First class: 
 
