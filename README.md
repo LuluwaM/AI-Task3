@@ -13,7 +13,7 @@ Task 3: Using object recognition technology by Teachable Machines to identify ob
 
 <img width="213" alt="لقطة شاشة 2023-08-06 002249" src="https://github.com/LuluwaM/AI-Task3/assets/113927014/85995ca5-d26b-475c-b8d1-a22a60524c65">
 
--Test model: by using an image upload or opening the camera
+-Test model: by using an image upload or opening the camera.
 
 
 <img width="224" alt="لقطة شاشة 2023-08-06 002518" src="https://github.com/LuluwaM/AI-Task3/assets/113927014/838adda7-5395-44b9-891c-0df1fe6269f1">
